@@ -29,32 +29,6 @@ El proyecto incluye:
 
 ---
 
-# Estructura del proyecto
-
-```bash
-wine-classification/
-│
-├── data/
-│   ├── processed.csv
-│   ├── X_test_scaled.csv
-│   └── y_test.csv
-│
-├── models/
-│   └── logistic_regression.pkl
-│
-├── notebooks/
-│   ├── training.ipynb
-│   └── testing.ipynb
-│
-├── src/
-│   └── functions.py
-│
-├── README.md
-└── requirements.txt
-```
-
----
-
 # Modelos implementados
 
 ## Random Forest
