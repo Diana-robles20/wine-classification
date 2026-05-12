@@ -101,10 +101,3 @@ Se compararon distintos modelos de clasificación para identificar cuál logra u
 
 La regresión logística permitió interpretar el impacto de las variables mediante sus coeficientes, mientras que Random Forest ofreció una alternativa no lineal para comparar desempeño.
 
----
-
-# Autor
-
-Diana Robles
-
-Estudiante de Licenciatura en Inteligencia Artificial y Ciencia de Datos.
