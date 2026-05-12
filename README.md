@@ -66,35 +66,6 @@ Características:
 
 ---
 
-# Cómo ejecutar el proyecto
-
-## 1. Clonar el repositorio
-
-```bash
-git clone https://github.com/Diana-robles20/wine-classification.git
-```
-
-## 2. Entrar al proyecto
-
-```bash
-cd wine-classification
-```
-
-## 3. Instalar dependencias
-
-```bash
-pip install -r requirements.txt
-```
-
-## 4. Ejecutar notebooks
-
-Abrir Jupyter Notebook o VS Code y ejecutar:
-
-* `training.ipynb`
-* `testing.ipynb`
-
----
-
 # Resultados
 
 Se compararon distintos modelos de clasificación para identificar cuál logra un mejor desempeño en la predicción de calidad de vinos.
